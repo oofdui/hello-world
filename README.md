@@ -8,4 +8,6 @@ Edit for Branch 'december2'
 
 ![](http://goodesign.in.th/Images/logo_main.png "Tooltip")
 
-![](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/14713568_10154222690753285_2345926414469929635_n.jpg?oh=f0bad995b24556b0a205995e4815d84f&oe=58B2A012 "WoW Wow")
+![](http://us.123rf.com/450wm/deniskolt/deniskolt1510/deniskolt151000011/47523659-%C3%83%20rvore-de-apple-com-ma%C3%83%C2%A7%C3%83%C2%A3-vermelha-isolada-no-fundo-branco.-ilustra%C3%83%C2%A7%C3%83%C2%A3o-vetorial.jpg?ver=6)
+
+## Release 4
