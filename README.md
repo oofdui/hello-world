@@ -8,4 +8,4 @@ Edit for Branch 'december2'
 
 ![](http://goodesign.in.th/Images/logo_main.png "Tooltip")
 
-![](https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/15442394_684815138361203_654277037849438047_n.jpg?oh=69fe484383e95f7dfaba00a4f041b3da&oe=58F0F6E2)
+![](https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/14713568_10154222690753285_2345926414469929635_n.jpg?oh=f0bad995b24556b0a205995e4815d84f&oe=58B2A012 "WoW Wow")
