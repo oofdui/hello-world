@@ -24,3 +24,11 @@ Edit for Branch 'december2'
     <h1>Test Command Block</h1>
     <p>This is in P tag</p>
 ```
+```typescript
+@Component(
+    moduleId: module.id,
+    templateUrl: './view/template.html',
+    selector: 'template',
+    styleUrl: './style/template.css'
+)
+```
