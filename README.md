@@ -20,7 +20,7 @@ Edit for Branch 'december2'
 > This is a second line
 > This is a third line
 
-```cmd
+```html
     <h1>Test Command Block</h1>
     <p>This is in P tag</p>
 ```
