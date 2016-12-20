@@ -16,9 +16,9 @@ Edit for Branch 'december2'
 ![](http://us.123rf.com/450wm/deniskolt/deniskolt1510/deniskolt151000011/47523659-%C3%83%20rvore-de-apple-com-ma%C3%83%C2%A7%C3%83%C2%A3-vermelha-isolada-no-fundo-branco.-ilustra%C3%83%C2%A7%C3%83%C2%A3o-vetorial.jpg?ver=12) Edit by Oof
 
 ## Siripong Wongsuntikul # Nopporn
-> Edit detail for test some character
-> This is a second line
-> This is a third line
+* Edit detail for test some character
+* This is a second line
+* This is a third line
 
 ```html
     <h1>Test Command Block</h1>
